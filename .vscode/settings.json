@@ -1,0 +1,39 @@
+{
+  "explorer.confirmDragAndDrop": false,
+  "editor.fontSize": 10,
+  "workbench.colorTheme": "Material Theme Darker",
+  "window.zoomLevel": 1,
+  "editor.wordWrap": "on",
+  "editor.tabSize": 2,
+  "editor.detectIndentation": false,
+  "editor.fastScrollSensitivity": 4,
+  "editor.tabCompletion": "off",
+  "workbench.startupEditor": "newUntitledFile",
+  "update.mode": "manual",
+  "terminal.integrated.rendererType": "dom",
+  // "emmet.syntaxProfiles": {
+  //   "javascript": "html"
+  // },
+  "prettier.singleQuote": true,
+  "editor.formatOnSave": false,
+  "[python]": {
+    "editor.formatOnSave": true
+  },
+  "[html]": {
+    "editor.formatOnSave": true
+  },
+  "[css]": {
+    "editor.formatOnSave": true
+  },
+  "[javascript]": {
+    "editor.formatOnSave": true
+  },
+  "prettier.jsxBracketSameLine": false,
+  "workbench.editor.highlightModifiedTabs": true,
+  "editor.cursorStyle": "block-outline",
+  "editor.cursorBlinking": "phase",
+  "files.trimFinalNewlines": true,
+  "editor.acceptSuggestionOnEnter": "on",
+  "editor.cursorSmoothCaretAnimation": true
+
+}
